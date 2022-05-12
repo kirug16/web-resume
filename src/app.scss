@@ -1,12 +1,14 @@
-$color:#92a8d1; 
+$color: #92a8d1;
 $backgroundimage: url(image/portfolio.jpg);
 $repeat: no-repeat;
 $size: auto;
 
-h1{color: $color}
+h1 {
+  color: $color;
+}
 
-body{
-    background-image: $backgroundimage;
-    background-repeat:$repeat ;
-    background-size:$size ;
+body {
+  background-image: $backgroundimage;
+  background-repeat: $repeat;
+  background-size: $size;
 }

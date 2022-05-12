@@ -19,8 +19,8 @@ export const Projects = () => {
             <img
               src="images/holiday.png"
               alt="holidayapp"
-              width="75"
-              height="75 "
+              width="50"
+              height="50"
             />
           </a>
         </p>
