@@ -15,7 +15,7 @@ export const Header = () => {
         width="250"
         height="329"
         align="left"
-        hspace="10"
+        hspace="3"
         vspace="0"
         border="3"
       />
@@ -43,6 +43,7 @@ export const Header = () => {
       <h3>Public Profiles</h3>
       <p id="socials">
         <a
+          id="links"
           href="https://www.linkedin.com/in/kirubel-gebretsadik-35a021236/"
           target="blank"
         >

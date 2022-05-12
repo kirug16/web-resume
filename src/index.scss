@@ -1,5 +1,8 @@
 $margin: auto;
 
-img {
-  margin-right: $margin;
+@media screen {
+  img {
+    margin-right: $margin;
+    display: block;
+  }
 }
