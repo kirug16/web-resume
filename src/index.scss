@@ -1,4 +1,5 @@
-// $display: block;
-// $margin: auto;
+$margin: auto;
 
-// img{display:$display;margin-right:$margin}
+img {
+  margin-right: $margin;
+}

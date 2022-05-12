@@ -6,7 +6,6 @@ export const Header = () => {
     number: 7853415732,
     email: "kirug16@gmail.com",
     age: 20,
-    nationality: "Ethiopian",
   };
   return (
     <div>
@@ -30,8 +29,6 @@ export const Header = () => {
 
       <p>
         Age: {info.age}
-        <br></br>
-        Nationality: {info.nationality}
         <br></br>
         Address: {info.address}
         <br></br>
@@ -58,10 +55,6 @@ export const Header = () => {
 
         <a href="https://twitter.com/kirug16" target="blank">
           <img src="images/twitter.png" alt="" width="30" height="30" />
-        </a>
-
-        <a href="https://www.instagram.com/kirug16/" target="blank">
-          <img src="images/instagram.png" alt="" width="30" height="30" />
         </a>
         <hr></hr>
       </p>
