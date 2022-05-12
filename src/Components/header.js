@@ -19,7 +19,7 @@ export const Header = () => {
         vspace="0"
         border="3"
       />
-      <h1>Hi I'm Kirubel Gebretsadik</h1>
+      <h1>Hi I'm Kirubel</h1>
       <h3>Computer Scientist</h3>
       <h2>Education</h2>
       <p>
