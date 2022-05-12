@@ -3,7 +3,7 @@ import React from 'react'
 export const Work = () => {
     return (
         <div>
-        <h2>Wrok Experience</h2>
+        <h2>Work Experience</h2>
         <p>
         Mail Handler- Hesston College, Hesston, KS<br></br>
         Sorted and placed mail into mailboxes and post office boxes with high<br></br>

@@ -30,17 +30,17 @@ export const Header = () => {
         </p>
         <br></br><br></br><br></br>
 
-        <h3>Socials</h3>
-        <p>
+        <h3>Public Profiles</h3>
+        <p id="socials">
         <a href="https://www.linkedin.com/in/kirubel-gebretsadik-35a021236/" target="blank">
         <img src="images/linkedin.png" alt='' width="30" height="30"/></a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
         <a href="https://github.com/kirug16" target="blank">
-        <img src="images/github-logo.png" alt='' width="30" height="30 "/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="images/github-logo.png" alt='' width="30" height="30 "/></a>
 
         <a href="https://twitter.com/kirug16" target="blank">
-        <img src="images/twitter.png" alt='' width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="images/twitter.png" alt='' width="30" height="30"/></a>
 
         <a href="https://www.instagram.com/kirug16/" target="blank">
         <img src="images/instagram.png" alt='' width="30" height="30"/></a>
