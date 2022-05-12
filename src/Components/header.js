@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Header = () => {
     const info = {
-        address : '820 Oakbrook PL Manhattan, KS, 66503',
+        address : '7941 Bemis Cir, Littleton, CO 80120',
         number : 7853415732,
         email: 'kirug16@gmail.com',
         age: 20,
