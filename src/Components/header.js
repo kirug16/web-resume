@@ -38,7 +38,6 @@ export const Header = () => {
       </p>
       <br></br>
       <br></br>
-      <br></br>
 
       <h3>Public Profiles</h3>
       <p id="socials">
