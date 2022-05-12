@@ -21,8 +21,8 @@ export const Header = () => {
       />
       <h1>Hi I'm Kirubel</h1>
       <h3>Computer Scientist</h3>
-      <h2>Education</h2>
       <p>
+        <h2>Education</h2>
         Kansas State University, Manhattan KS<br></br>
         Bachelor of Science, Computer Engineering(2024)
       </p>
