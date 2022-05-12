@@ -16,7 +16,12 @@ export const Projects = () => {
         Fetches holiday data from a free api, and displays on screen.
         <p>
           <a href="https://github.com/kirug16/HolidayApp" target="blank">
-            <img src="images/holiday.png" alt="" width="30" height="30 " />
+            <img
+              src="images/holiday.png"
+              alt="holidayapp"
+              width="75"
+              height="75 "
+            />
           </a>
         </p>
       </p>
